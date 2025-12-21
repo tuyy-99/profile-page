@@ -166,7 +166,8 @@ An **avatar image** is used instead of a real photo. This is intentional and acc
 
 ## 👤 Author
 
-**Your Full Name**
+Tursina Yisehak
+
 Software Engineering Student
 
 ---
